@@ -1,2 +1,4 @@
-# matrix_DW
-Projekt transformacja
+# Matrix by DW
+ Transformation project - know the rules
+ 
+ - 
