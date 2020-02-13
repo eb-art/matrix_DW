@@ -22,6 +22,7 @@ Bonus:
 5. Prezentacja: "Czy możesz zmienić zawód z nietechnicznej roli na Data Scientist?": https://www.youtube.com/watch?v=-27SzDPyBGw&feature=youtu.be
 
 Day 2: registering on github and creating a new repository
+link: https://www.youtube.com/watch?v=guc8lS6m5ws&feature=youtu.be
 
 Bonuses:
 1. Colab - Tips & TricksColab - Tips & Tricks: https://www.google-colab.com/google-colab-tips-and-tricks/
@@ -31,3 +32,21 @@ Bonuses:
 5. Prezentacja: "Jak uczyć się na błędach innych, po prostu zacznij od ML": https://www.youtube.com/watch?v=ptXgGwokopM&feature=youtu.be
 
 Day 3: poznanie miejsce, gdzie są dziesiątki milionów publicznie dostępnych danych, nauczenie się korzystania z tego. 
+link: https://www.youtube.com/watch?v=BFwzT0hPx1Y&feature=youtu.be
+
+Bonuses:
+1. Google just published 25 million free datasets:https://towardsdatascience.com/google-just-published-25-million-free-datasets-d83940e24284
+2. 50 Awesome Free Data Sources to Know:https://medium.com/@Infogram/50-awesome-free-data-sources-to-know-5b2b07f79120
+3. 7 Public Interest Charts made with Data.World:https://medium.com/plotly/7-public-interest-charts-made-with-data-world-7cf9cf0d6044
+4. The Species Roaming the Data World:https://towardsdatascience.com/the-species-roaming-the-data-world-4c5f1ed10b01
+5. Prezentacja: "5 najważniejszych zasad, których nauczyłem się poznając tajniki Data Science":https://www.youtube.com/watch?v=iBY5JYBJcCg
+
+Day 4: prosty, ale działający model uczenia maszynowego
+link: https://www.youtube.com/watch?v=ksNrmMC682Y&feature=youtu.be
+
+Bonuses:
+1. Decision Tree Algorithm — Explained:https://towardsdatascience.com/decision-tree-algorithm-explained-83beb6e78ef4
+2. Decision Tree: an algorithm that works like the human brain:https://towardsdatascience.com/decision-tree-an-algorithm-that-works-like-the-human-brain-8bc0652f1fc6
+3. Cross-Validation in Machine Learning:https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f
+4. I analyzed a Women’s Shoes Prices Data Set and here’s what I discovered!:https://medium.com/@Kelechukwu_/i-analyzed-a-womens-shoes-prices-data-set-and-here-s-what-i-discovered-437aa795c96f
+5. Prezentacja: "Jak rozpocząć karierę zawodową w Data Science i czego można się spodziewać po drodze?":https://youtu.be/bfwJbILk17A
