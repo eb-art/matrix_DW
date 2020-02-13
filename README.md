@@ -6,7 +6,7 @@
 - polskie bazy danych: https://dane.gov.pl
 - wyszukiwarka danych: https://datasetsearch.research.google.com
 
- ## działanie na bazie:
+ ## Działanie na bazie:
  https://data.world/datafiniti/mens-shoe-prices
  
  
