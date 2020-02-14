@@ -50,3 +50,5 @@ Bonuses:
 3. Cross-Validation in Machine Learning:https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f
 4. I analyzed a Women’s Shoes Prices Data Set and here’s what I discovered!:https://medium.com/@Kelechukwu_/i-analyzed-a-womens-shoes-prices-data-set-and-here-s-what-i-discovered-437aa795c96f
 5. Prezentacja: "Jak rozpocząć karierę zawodową w Data Science i czego można się spodziewać po drodze?":https://youtu.be/bfwJbILk17A
+
+DAY 5: bardziej zaawansowany model
